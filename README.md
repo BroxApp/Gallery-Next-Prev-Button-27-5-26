@@ -1,4 +1,4 @@
-![Simple Photo Gallery Banner](./images/simple photo gallery.png)
+![Simple Photo Gallery Banner](./images/simple-photo-gallery.png)
 
 # Simple Photo Gallery
 
